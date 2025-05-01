@@ -11,8 +11,6 @@ grapEnv/
 .ipynb_checkpoints/
 
 # Ignore model files
-*.h5
-*.keras
 
 
 # Ignore temporary files
