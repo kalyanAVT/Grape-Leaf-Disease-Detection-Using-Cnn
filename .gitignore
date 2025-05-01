@@ -1,0 +1,23 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+env/
+grapEnv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model files
+*.h5
+*.keras
+
+
+# Ignore temporary files
+temp/
+
+# Ignore IDE files (e.g., PyCharm, VS Code)
+.idea/
+.vscode/
